@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Joe Urbz Media & Photography]]></title>
         <description><![CDATA[Joe Urbz Media & Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joe-urbz-media-and-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 16:06:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 Nov 2015 16:07:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joe-urbz-media-and-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a6f1f61-4fa2-4d2a-aaef-8a009d19c94f.jpg">]]></description>
-            <link>undefineda5862fc7-51c5-4a7b-8cc8-80ac365fe35f/index.html</link>
+            <link>https://thegrid.ai/joe-urbz-media-and-photography/a5862fc7-51c5-4a7b-8cc8-80ac365fe35f/index.html</link>
             <guid isPermaLink="false">a5862fc7-51c5-4a7b-8cc8-80ac365fe35f</guid>
-            <pubDate>Thu, 05 Nov 2015 16:06:42 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2015 16:07:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
